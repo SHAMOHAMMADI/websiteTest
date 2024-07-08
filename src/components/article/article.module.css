@@ -1,0 +1,30 @@
+.frame{
+    /* border:1px solid black; */
+    margin:5px;
+    width:fit-content;
+    display:flex;
+    /* border:1px solid black; */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius:5px;
+  }
+  .articleWrapper{
+    border: 1px soli gray;
+    /* box-shadow: 1px 1px 1px gray; */
+    display:flex;
+ justify-content: space-between;
+ flex-wrap: wrap;
+  height: px;
+  flex-direction: column;
+  width:100%;
+  margin:5px auto;
+  padding:5px;
+  border-radius:5px;
+  background-color:azure
+}
+.articleWrapper img{
+    margin:10px;
+    width:250px;
+    border-radius: 5px;
+    
+    
+}

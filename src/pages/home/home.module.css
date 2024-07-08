@@ -1,0 +1,10 @@
+.homeWrapper{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    margin:10px;
+    border-radius: 5px;
+    padding:10px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

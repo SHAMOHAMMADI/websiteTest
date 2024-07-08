@@ -1,0 +1,22 @@
+{
+    "articles":{
+        "status":true,
+        "data":[
+            {
+               "id":1,
+               "imageUrl":"",
+               "readingTime":3
+            },
+            {
+                "id":2,
+                "imageUrl":"",
+                "readingTime":4
+             },
+             {
+                "id":3,
+                "imageUrl":"",
+                "readingTime":5
+             }
+        ]
+    }
+}
