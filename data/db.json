@@ -5,16 +5,19 @@
             {
                "id":1,
                "imageUrl":"",
+               "text":"this ia a text1",
                "readingTime":3
             },
             {
                 "id":2,
                 "imageUrl":"",
+               "text":"this ia a text2",
                 "readingTime":4
              },
              {
                 "id":3,
                 "imageUrl":"",
+               "text":"this ia a text3",
                 "readingTime":5
              }
         ]

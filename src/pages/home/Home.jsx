@@ -11,12 +11,12 @@ export default function Home() {
     <div>
         <Navbar />
         <div className={styled.homeWrapper}>
-
+{/* 
         <Article />
         <Article />
         <Article />
 
-        <Article />
+        <Article /> */}
         </div>
 
         

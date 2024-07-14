@@ -9,22 +9,20 @@ function Navbar(props) {
     <div className={styled.header}>
       <h3>{title}</h3>
       <ul>
-        <Link to="/">
-          <li>home</li>
-        </Link>
-        <Link to="product">
-          <li>product</li>{" "}
-        </Link>
-        <Link to="gallery">
-          {" "}
-          <li>gallery</li>
-        </Link>
-        <Link to="contactus">
-          <li>contactus</li>
-        </Link>
-        <Link to="aboutus">
-          <li>aboutus</li>
-        </Link>
+        <li>
+          <Link to="/">home</Link>
+        </li>
+        
+          <li><Link to="product">product </Link></li>
+       
+          <li><Link to="gallery">gallery</Link></li>
+         
+        
+       
+          <li> <Link to="contactus">contactus</Link></li>
+        
+        
+          <li><Link to="aboutus">aboutus</Link></li>
       </ul>
     </div>
   );
