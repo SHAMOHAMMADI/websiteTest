@@ -7,7 +7,7 @@ import pic1 from "../../assets/images/2.jpeg"
 export default function AboutUs() {
   return (
     <div>
-      <Navbar />
+      <Navbar /> 
       <div className={styled.body}>
       <img src={pic1} alt=""/>
       <p>
@@ -16,9 +16,9 @@ export default function AboutUs() {
         assumenda officia repudiandae fugiat cupiditate, adipisci voluptatibus
         possimus suscipit quae tenetur ratione ipsa consectetur qui consequatur
         magni ex, tempora est porro dolorum eveniet aut blanditiis ab. Possimus
-        recusandae quis placeat fugiat voluptatum maiores harum. Exercitationem
+        recusandae quis placeat fugiat volupta  tum maiores harum. Exercitationem
         quasi quo soluta recusandae corrupti itaque. Magnam quae et veniam
-        exercitationem, eos natus molestiae nostrum ipsum dignissimos minima
+        exercitationem, eos natus molestiae nostrum ipsum  dignissimos minima
         atque odit eligendi tempore incidunt ea vel repellendus dolore quas
         commodi nemo velit id impedit. Facere itaque aperiam harum, corporis aut
         illum tempore voluptatem vel natus dolorem necessitatibus provident ut
